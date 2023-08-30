@@ -83,12 +83,12 @@ function filterArr(arr) {
       numbers: arrNum};
     }
     
-    let  arr = [5, "Limit", 12, "a", "3", 99, 2, "strong", "broun"];
+    let  arr = [5, "Limit", 12, "a", "3",[2, 4, 3, "33", "a", "text"], 99, 2, "strong", "broun"];
     console.log(filterArr(arr));
 
-// ///////////////
-// /////6 Завдання
-// ///////////////
+///////////////
+/////6 Завдання
+///////////////
 function filterArr(arr) {
     const arrNum = [];
     const arrString = [];
